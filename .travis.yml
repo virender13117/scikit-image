@@ -25,7 +25,7 @@ addons:
 env:
   global:
     - GH_REF: github.com/scikit-image/docs.git
-    - secure: "Z8uxAGrFb6yNw/savI7YvA5/BfkVKVGD3HUkDSXamotJAvUKMjIlWnzLc7d9S7PY99FRENgRYaNw4fzZqwJ91hDITcl1/wk6ux1j778O8kUQZayzdqcJG8KpfBsy1vJ4fl4uDGlSmUP413rR3R3dvvgJzIpCLy2qiQR/xujrGvs="
+    - secure: "MhsXAU5v4ZsJDLbUyVVEQ/F3/aNRSqY3Fa6Slg5mLL9QvxSKrb4vmbI6vyEkT6MennY1rOvUEqnTMa9JqgDveecWt8zxpWTtVoPsh4sWFsUAsza0/Ef73Ct1ApGWNvE+MaG1ivKjSzdd0jZTh3YapYByZMoiK7+1OjRBmKGBdfcq1gRSUj0tugbT60gaWEshBlSTm1pHMzH1u/Y+4bwytLZarGAiabG55w8GXq4h7UryIwDSzwjWhRmNyi/JnWLfdqcYWQzF2iTq4lyH3OoYCaBcDLjZzHZNvQUMxCWedKX/Z/MnWQDukWsDr6x1MKDGaxFsFbB1BIQzq1ribuMySmQ1kk8Qljh7ZVNoSIUoyW/Q+L7jjDpn6sXjpRh0Xg0+yaACbxbZ7LixxHKqPj0fzV0HXjXbfRiba8UUndWY8WVsEZos0q8AiYpFGgfCx5+jCnOMTLlHCMb1X+3p+MSWiMJous9+Lny+KVtAUkles/VPVhXrCRCeiJd9zKc8bWo2nfgy+fCgZvcOI68EbuY9tkLiJV+EK48igMIvDa6kAjlEcYXCebfYgPh0uLPoGMyasHa9EGAiunuiz74aD8sq6E+O604SQpA+1owDBODqQsVMla3OAsrUdNHfVZW/9UjILJ7BvhKF+mlhdZsG0ltskAMiNvb76iQgzPVG8hpsX8s="
 
 notifications:
   webhooks:
